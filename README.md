@@ -9,3 +9,5 @@ In this Project performed the Exploratory Data analysis to answer some queries r
 5. Private Hospitals Cost of Treatment is Unaffordable for the Labours, Does all the above queries change there result when we try to focus on public hospitals as hospitals for the poor ?
 
 These are the Queries which I've Tried to solve using the data visualisation libraries such as matplotlib and seaborn.
+
+Please check the Jupyter Notebook for better understanding.
